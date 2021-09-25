@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.stuff_link {
+	@apply w-full;
+	@apply text-center text-blue-500;
+}
+.stuff_link:hover {
+	@apply underline;
+}
+@media (min-width: 768px) {
+	.stuff_link {
+		@apply w-1/3;
+		@apply text-lg text-left;
+	}
+}

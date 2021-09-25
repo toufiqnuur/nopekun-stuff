@@ -1,0 +1,34 @@
+---
+title: Kombinasi
+---
+
+<script>
+  import kombinasi from '$lib/function/kombinasi.js'
+  import InputText from '$lib/components/InputText.svelte'
+  
+  let n = 0, r = 0, res = 0
+  
+  const onChange = (e) => {
+    const val = e.target.value
+    n = val.split(',')[0]
+    r = val.split(',')[1]
+    res = kombinasi(+n, +r)
+  }
+</script>
+
+Kombinasi adalah susunan unsur-unsur dengan tidak memperhatikan urutannya.
+
+*<sub>n</sub>C<sub>r</sub> = n! / ((n - r)! / r!)*
+
+<InputText 
+ label='Masukan nilai n, r:'
+ placeholder='nilai n, nilai r'
+ {onChange} />
+
+<p><sub>n</sub>C<sub>r</sub> = n! / ((n - r)! * r!)</p>
+
+<p><sub>{n}</sub>C<sub>{r}</sub> = {n}! / (({n} - {r})! * {r}!)</p>
+
+<p><sub>{n}</sub>C<sub>{r}</sub> = {n}! / ({n - r}! * {r}!)</p>
+
+<p><sub>{n}</sub>C<sub>{r}</sub> = {res}
