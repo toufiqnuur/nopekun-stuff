@@ -9,7 +9,7 @@ title: Simpangan Rata-rata
   let res = 0
   
   const onChange = (e) => {
-    const val = e.target.value
+    let val = e.target.value
     val = val.split(',').map(x => +x)
     res = simpanganRata2([...val])
   }
