@@ -1,0 +1,27 @@
+---
+title: Simpangan Rata-rata
+---
+
+<script>
+  import simpanganRata2 from '$lib/function/simpanganRata2.js'
+  import InputText from '$lib/components/InputText.svelte'
+  
+  let res = 0, val //simpanganRata2([4, 5, 6, 4, 4, 5, 3, 8, 7, 3, 6])
+  
+  const onChange = (e) => {
+    val = e.target.value
+    val = val.split(',').map(x => +x)
+    res = simpanganRata2([...val])
+  }
+</script>
+
+Simpangan rata-rata (deviasi mean) adalah rata-rata jarak antara nilai-nilai data menuju rata-ratanya.
+
+*SR = &Sigma;|x-x&#772| / n*
+
+<InputText 
+ label='Masukan data:'
+ placeholder='1, 2, 3, 4'
+ {onChange} />
+
+SR = { res.x ?? 0} / { res.n ?? 0}

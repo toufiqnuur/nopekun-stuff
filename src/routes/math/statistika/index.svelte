@@ -9,6 +9,10 @@
 		{
 			name: 'Range',
 			path: '/math/statistika/range'
+		},
+		{
+			name: 'Simpangan Rata-rata',
+			path: '/math/statistika/simpangan-rata2'
 		}
 	];
 </script>
