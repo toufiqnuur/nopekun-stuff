@@ -1,0 +1,32 @@
+---
+title: Simpangan Baku
+---
+<script>
+  import simpanganBaku from '$lib/function/simpanganBaku.js'
+  import InputText from '$lib/components/InputText.svelte'
+  
+  let res = 0
+  
+  const onChange = (e) => {
+    let val = e.target.value
+    val = val.split(',').map(x => +x)
+    res = simpanganBaku([...val])
+  }
+</script>
+
+Simpangan baku atau deviasi standar adalah ukuran sebaran statistik yang paling lazim.
+
+*S = √ &Sum;(x-x&#772;)<sup>2</sup> / n*
+
+<InputText 
+ label='Masukan data:'
+ placeholder='1, 2, 3, 4'
+ {onChange} />
+
+S = √ ({res.x ?? 0} / {res.n || 0})
+
+{#if res.x % res.n === 0} 
+
+S = √ {res.x / res.n}
+
+{/if}

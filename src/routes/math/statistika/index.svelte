@@ -13,6 +13,10 @@
 		{
 			name: 'Simpangan Rata-rata',
 			path: '/math/statistika/simpangan-rata2'
+		},
+		{
+			name: 'Simpangan Baku',
+			path: '/math/statistika/simpangan-baku'
 		}
 	];
 </script>
