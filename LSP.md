@@ -17,3 +17,9 @@
 - Kelas A: `0 - 127`
 - Kelas B: `128 - 191`
 - Kelas C: `192 - 223`
+
+## Standar IEEE 802.11
+- 802.11 `b : 5,4-11 Mbps` 2.4 GHz
+- 802.11 `a : 54 Mbps` 5 GHz
+- 802.11 `g : 30 / 54 Mbps` 2.4 GHz
+- 802.11 `n : 300 Mbps` 2.4 & 5 GHz
