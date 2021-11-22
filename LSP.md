@@ -8,8 +8,8 @@
 
 ### Susunan Kabel
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlDPsU0JUMmVxuPR_BZ8Cunu5f0_F6Ucmrg&usqp=CAU)
-- Crossover (perangkat sama) TIA568A
-- Straight (perangkat beda) TIA568B
+- Crossover (perangkat sama) `TIA568A`
+- Straight (perangkat beda) `TIA568B`
 
 ## IP Address
 
