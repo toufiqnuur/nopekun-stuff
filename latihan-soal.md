@@ -114,12 +114,12 @@
 - [ ] 192.168.0.1/25 dan 192.168.0.150/25
 - [ ] 192.168.10.1/24 dan 192.168.10.150/24
 24. Kecepatan maksimal untuk Fast Ethernet adalah
-- [ ] 100 Mbps
+- [x] 100 Mbps
 - [ ] 1 Mbps
 - [ ] 1000 Mbps
 - [ ] 10 Mbps
 25. Perangkat jaringan yang diperlukan untuk menghubungkan 35 PC ke router adalah
 - [ ] Keyboard
-- [ ] Switch
+- [x] Switch
 - [ ] Router
 - [ ] Kabel UTP
