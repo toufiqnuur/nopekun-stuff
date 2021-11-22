@@ -1,15 +1,15 @@
 1. Aplikasi yang biasa digunakan untuk membuat tabel adalah Microsoft . Bagaimana agar data dapat disajikan dan diedit secara online?
 - [ ] Dikirimkan melalui email
 - [ ] Diupload di google drive lalu diedit dengan google doc
-- [ ] Diupload di google drive lalu diedit dengan google sheet
+- [x] Diupload di google drive lalu diedit dengan google sheet
 - [ ] Diupload di google drive
 2. Apakah perbedaan kabel STP dan UTP?
 - [ ] Pada STP kabelnya terlapisi tembaga, sedangkan pada UTP tidak
 - [ ] Kabel STP terbuat dari tembaga, kabel UTP terbuat dari serat kaca
-- [ ] Pada STP kabelnya terbungkus (shielded), pada UTP kabelnya tidak terbungkus (unshielded)
+- [x] Pada STP kabelnya terbungkus (shielded), pada UTP kabelnya tidak terbungkus (unshielded)
 - [ ] Kabel STP masuk di Cat6, sedangkan UTP masih di Cat5
 3. Jika Anda ingin menyambungkan host-host dalam satu jaringan di mana Anda juga ingin memprioritaskan jenis data tertentu serta membuat virtual LAN, maka perangkat yang Anda pilih adalah
-- [ ] switch manageable
+- [x] switch manageable
 - [ ] router
 - [ ] switch
 - [ ] bridge
@@ -17,7 +17,7 @@
 - [ ] Hub
 - [ ] Router
 - [ ] Switch
-- [ ] Access Point
+- [x] Access Point
 5. Kombinasi pengkabelan straight pada jaringan komputer yang sesuai dengan standart EIA/TIA 568B adalah ….
 - [ ] Orange – white orange – green – white green - white blue - blue – white brown - brown
 - [ ] White green – green - white orange – blue - white blue - orange – white brown – brown
