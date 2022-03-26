@@ -9,5 +9,8 @@ an-nafs), prasangka baik
 (ukhuwah)
 ```
 
-`Al-Isra: 32`
-`An-Nur: 2`
+```
+Al-Isra: 32, An-Nur: 2,
+larangan pergaulan 
+bebas dan perbuatan zina
+```
