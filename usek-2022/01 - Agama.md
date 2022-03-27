@@ -95,3 +95,23 @@ Berwasiat taqwa
 Membaca ayat Al Qur’an
 Berdoa
 ```
+
+- Warisan
+
+```
+Istri  1/4  or  1/8
+Suami  1/2  or  1/4
+
+Putri  1/2  or  2/3
+Putra  Sisanya
+
+Ortu   1/3  or  2/6
+Sodara 1/6  or  1/3
+```
+
+- Strategi dakwah Madinah
+
+    - Masjid Nabawi
+    - Saudara Muhajirin & Anshar
+    - Piagam Madinah
+    - Sosial & Pemerintahan
