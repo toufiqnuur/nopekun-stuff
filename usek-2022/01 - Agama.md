@@ -31,11 +31,22 @@ menentukan contoh perilaku (berbuat baik kepada sesama manusia)
 9. Asmaul Husna
 
 ```
-al-Karim   >  Pemurah
-al-Mu’min  >  Memberi Aman
-al-Wakil   >  Memelihara
-al-Matin   >  Kokoh
-al-Jaami’  >  Mengumpulkan
-al-‘Adl    >  Adil
-al-Akhiir  >  Akhir
+al-Karim  :  Pemurah
+al-Mu’min :  Memberi Aman
+al-Wakil  :  Memelihara
+al-Matin  :  Kokoh
+al-Jaami’ :  Mengumpulkan
+al-‘Adl   :  Adil
+al-Akhiir :  Akhir
+```
+
+10. Fungsi Al-Quran
+
+```
+al-Huda   :  Petunjuk
+al-Furqan :  Pemisah
+as-Syifa  :  Penyembuh
+al-Bayan  :  Penerang
+Mau’izah  :  Peringatan
+Bayyinat  :  Pembuktian
 ```
