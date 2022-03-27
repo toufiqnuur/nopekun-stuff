@@ -80,3 +80,7 @@ terhadap Al-Quran tentang perintah salat
 
 25. Perilaku yang bukan pengamalan ibadah 
 haji/zakat/wakaf
+
+26. Jenazah dilaut
+
+Wajib memandikan, mengafani, menshalatkan, dan menguburkannya. Jauh dari darat 
