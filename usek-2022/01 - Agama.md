@@ -1,34 +1,35 @@
 # Key point
 
-`Al-Hujurat: 10 & 12`
+- Al-Hujurat: 10 & 12
 
-Melanjutkan potongan ayat
+![ayat10](https://careabouteducation.files.wordpress.com/2016/05/q-s-al-hujurat-ayat-10.jpg)
 
-`Al-Isra: 32` `An-Nur:2`
+![ayat12](https://careabouteducation.files.wordpress.com/2016/05/q-s-al-hujurat-ayat-12.png)
 
-menentukan hukuman bagi pelaku yang berbuat zina
+- Al-Isra: 32, An-Nur:2
+
+  `Hukuman zina dera 100x`
 
 `Al-Maidah: 48` `An-Nisa: 59` `At-Taubah: 105`
 
 menentukan hukum tajwid
 
-`Yunus: 40-41` `al-Maidah: 32`
+- Yunus: 40-41, al-Maidah: 32
 
-mengimplementasikan perilaku yang sesuai ayat
+  `toleransi`
 
-`Al Imran: 190-191 / 159`
+- Al Imran: 190-191 / 159
 
-melanjutkan potongan ayat
+  `berfikir kritis dan 
+bersikap demokratis`
 
-menentukan isi kandungan
+- Luqman: 13-14 Al-Baqarah: 83
+  
+  `berbuat baik sesama manusia`
 
-`Luqman: 13-14` `Al-Baqarah: 83`
+![baqarah](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzR8Z5yTcmM5jmGYqM8wB9E50I2Fb6aTxEQQ&usqp=CAU)
 
-menentukan lafadz dan artinya
-
-menentukan contoh perilaku (berbuat baik kepada sesama manusia)
-
-9. Asmaul Husna
+- Asmaul Husna
 
 ```
 al-Karim  :  Pemurah
@@ -40,9 +41,7 @@ al-‘Adl   :  Adil
 al-Akhiir :  Akhir
 ```
 
-10. Perilaku iman pada malaikat
-
-11. Fungsi Al-Quran
+- Fungsi Al-Quran
 
 ```
 al-Huda   :  Petunjuk
@@ -53,7 +52,7 @@ Mau’izah  :  Peringatan
 Bayyinat  :  Pembuktian
 ```
 
-12. Jujur / sifat wajib rasul
+- Jujur / sifat wajib rasul
 
 ```
 Sidiq     :  Jujur
@@ -62,30 +61,20 @@ Amanah    :  Amanah
 Fatonah   :  Cerdas
 ```
 
-13. Contoh perilaku Al-Imran 185 (kiamat sughra)
+- Al-Imran 185 (kiamat sughra)
 
-14. Iman pada qada & qadar
+- Syaja’ah (berani membela kebenaran)
 
-16. Kriteria berpakaian sesuai syariat
-
-17. Perilaku jujur
-
-18. `Syaja’ah 
-(berani membela kebenaran)`
-
-20. Manfaat kerja keras & tanggungjawab
-
-24. Fungsi hadis 
+- Fungsi hadis 
 terhadap Al-Quran tentang perintah salat
 
-25. Perilaku yang bukan pengamalan ibadah 
-haji/zakat/wakaf
+  Bayan Taqrir (Memperjelas)
 
-26. Jenazah dilaut
+- Jenazah dilaut
 
     Wajib memandikan, mengafani, menshalatkan, dan menguburkannya. Jauh dari darat ? tunda : dilarung.
 
-27. Syarat Kutbah
+- Syarat Kutbah
     
 ``` 
 hamdallah
