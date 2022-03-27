@@ -10,18 +10,13 @@
 
   `Hukuman zina dera 100x`
 
-`Al-Maidah: 48` `An-Nisa: 59` `At-Taubah: 105`
-
-menentukan hukum tajwid
-
 - Yunus: 40-41, al-Maidah: 32
 
   `toleransi`
 
 - Al Imran: 190-191 / 159
 
-  `berfikir kritis dan 
-bersikap demokratis`
+  `berfikir kritis dan bersikap demokratis`
 
 - Luqman: 13-14 Al-Baqarah: 83
   
@@ -68,11 +63,11 @@ Fatonah   :  Cerdas
 - Fungsi hadis 
 terhadap Al-Quran tentang perintah salat
 
-  Bayan Taqrir (Memperjelas)
+  `Bayan Taqrir (Memperjelas)`
 
 - Jenazah dilaut
 
-    Wajib memandikan, mengafani, menshalatkan, dan menguburkannya. Jauh dari darat ? tunda : dilarung.
+    > Wajib memandikan, mengafani, menshalatkan, dan menguburkannya. Jauh dari darat ? tunda : dilarung.
 
 - Syarat Kutbah
     
@@ -91,6 +86,13 @@ Berdoa
 Majlis  :  cod
 Aib     :  cacat
 Syarat  :  syarat (jangak waktu...)
+```
+
+- Talak
+
+```
+1, 2  :  Bisa rujuk
+3     :  Dengan syarat
 ```
 
 - Warisan
