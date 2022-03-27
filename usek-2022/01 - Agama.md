@@ -28,6 +28,14 @@ menentukan lafadz dan artinya
 
 menentukan contoh perilaku (berbuat baik kepada sesama manusia)
 
-`Asmaul Husna`
+9. Asmaul Husna
 
-al-Kariim, al-Mu’min, al-Wakiil, al-Matiin, al-Jaami’, al-‘Adl, dan al-Akhiir
+```
+al-Karim   >  Pemurah
+al-Mu’min  >  Memberi Aman
+al-Wakil   >  Memelihara
+al-Matin   >  Kokoh
+al-Jaami’  >  Mengumpulkan
+al-‘Adl    >  Adil
+al-Akhiir  >  Akhir
+```
