@@ -105,7 +105,7 @@ Suami  1/2  or  1/4
 Putri  1/2  or  2/3
 Putra  Sisanya
 
-Ortu   1/3  or  2/6
+Ortu   1/3  or  1/6
 Sodara 1/6  or  1/3
 ```
 
