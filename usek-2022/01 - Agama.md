@@ -85,6 +85,14 @@ Membaca ayat Al Qur’an
 Berdoa
 ```
 
+- Khiyar
+
+```
+Majlis  :  cod
+Aib     :  cacat
+Syarat  :  syarat (jangak waktu...)
+```
+
 - Warisan
 
 ```
