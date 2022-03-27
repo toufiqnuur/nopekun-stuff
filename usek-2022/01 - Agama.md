@@ -83,4 +83,15 @@ haji/zakat/wakaf
 
 26. Jenazah dilaut
 
-Wajib memandikan, mengafani, menshalatkan, dan menguburkannya. Jauh dari darat 
+    Wajib memandikan, mengafani, menshalatkan, dan menguburkannya. Jauh dari darat ? tunda : dilarung.
+
+27. Syarat Kutbah
+    
+``` 
+hamdallah
+syahadatain
+shalawat
+Berwasiat taqwa
+Membaca ayat Al Qur’an
+Berdoa
+```
