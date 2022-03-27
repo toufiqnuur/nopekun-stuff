@@ -40,7 +40,9 @@ al-‘Adl   :  Adil
 al-Akhiir :  Akhir
 ```
 
-10. Fungsi Al-Quran
+10. Perilaku iman pada malaikat
+
+11. Fungsi Al-Quran
 
 ```
 al-Huda   :  Petunjuk
@@ -50,3 +52,31 @@ al-Bayan  :  Penerang
 Mau’izah  :  Peringatan
 Bayyinat  :  Pembuktian
 ```
+
+12. Jujur / sifat wajib rasul
+
+```
+Sidiq     :  Jujur
+Tabligh   :  Menyampaikan
+Amanah    :  Amanah
+Fatonah   :  Cerdas
+```
+
+13. Contoh perilaku Al-Imran 185 (kiamat sughra)
+
+14. Iman pada qada & qadar
+
+16. Kriteria berpakaian sesuai syariat
+
+17. Perilaku jujur
+
+18. `Syaja’ah 
+(berani membela kebenaran)`
+
+20. Manfaat kerja keras & tanggungjawab
+
+24. Fungsi hadis 
+terhadap Al-Quran tentang perintah salat
+
+25. Perilaku yang bukan pengamalan ibadah 
+haji/zakat/wakaf
