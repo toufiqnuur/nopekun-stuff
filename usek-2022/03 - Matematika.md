@@ -12,4 +12,7 @@
                = 4
 ```
 
+- Quartil
+![qbawah](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8Pe37m_xTqkTf8Fhvu1qTaQwMWJMZ84tmQ&usqp=CAU)
+
 
