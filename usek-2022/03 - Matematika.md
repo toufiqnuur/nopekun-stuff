@@ -13,6 +13,15 @@
 ```
 
 - Quartil
-![qbawah](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8Pe37m_xTqkTf8Fhvu1qTaQwMWJMZ84tmQ&usqp=CAU)
 
+![qbawah](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02iC4b_CQ_ft6dWdsJV699u_bdluaN7jAPA&usqp=CAU)
 
+- Simpangan baku
+
+![sbaku](https://gurubelajarku.com/wp-content/uploads/2019/06/Contoh-Soal-Simpangan-Baku.jpg)
+
+- Kombinasi
+
+![kombinasi](https://www.gstatic.com/education/formulas2/397133473/id/combination_formula.svg)
+
+n = total, r = jumlah dipilih
